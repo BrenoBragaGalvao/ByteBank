@@ -19,4 +19,4 @@ Nosso usuário irá cometer erros e solicitar operaçõs potencialmente inválid
 
 Envie um vídeo de até **2 minutos**, sem a necessidade de edição, porém demonstrando o funcionamento das regras de negócio solicitadas.
 
-Link do video no youtube: 
+Link do video no youtube: https://youtu.be/hEWNv-Xs9Yk
